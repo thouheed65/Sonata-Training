@@ -1,7 +1,7 @@
 package com.sonata02;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+
 import com.sonataImpl.EmpImpl;
 import com.sonatamodel.Employee;
 
@@ -21,8 +21,3 @@ public class EmpExe {
 }
 		
 		
-
-
-
-
-
